@@ -1,5 +1,6 @@
 ## Hello I'm Vivek Chavan
-[www.vivekchavan.dev](https://www.vivekchavan.dev) [![Linkedin Badge](https://img.shields.io/badge/-vivekvchavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekvchavan)](https://www.linkedin.com/in/vivekvchavan/) [![Twitter Badge](https://img.shields.io/badge/-@vivekc1994-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vivekc1994)](https://twitter.com/vivekc1994) 
+[www.vivekchavan.dev](https://www.vivekchavan.dev)
+[![Linkedin Badge](https://img.shields.io/badge/-vivekvchavan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekvchavan)](https://www.linkedin.com/in/vivekvchavan/) [![Twitter Badge](https://img.shields.io/badge/-@vivekc1994-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vivekc1994)](https://twitter.com/vivekc1994) 
 
 I am a fullstack developer from Mumbai, India, currently working as a Software Development Engineer at [ADCB](https://adcb.com)
 
